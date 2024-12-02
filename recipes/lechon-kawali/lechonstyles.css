@@ -8,11 +8,6 @@ li {
     padding: 10px;
 }
 
-ul {
-    border: solid 4px black;
-    width: 750px;
-}
-
 button {
     font-size: 16px;
     color: #000000;
@@ -21,7 +16,7 @@ button {
     padding: 10px;
 }
 
-.adobo {
+.lechon {
     width: 750px;
     height: auto;
     border-radius: 50%;
@@ -32,7 +27,7 @@ button {
     color: red;
 }
 
-.bottle {
+.pork {
     width: 750px;
     height: auto;
     margin: 20px;

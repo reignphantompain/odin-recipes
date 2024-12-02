@@ -4,13 +4,13 @@ body {
     margin: 40px;
 }
 
-li {
-    padding: 10px;
-}
-
 ul {
     border: solid 4px black;
     width: 750px;
+}
+
+li {
+    padding: 10px;
 }
 
 button {
@@ -21,21 +21,22 @@ button {
     padding: 10px;
 }
 
-.adobo {
+.gang {
     width: 750px;
     height: auto;
     border-radius: 50%;
     margin: 40px;
 }
 
-.salutation {
+.sal {
     color: red;
 }
 
-.bottle {
+.prutz {
     width: 750px;
     height: auto;
     margin: 20px;
+    border-radius: 50%;
 }
 
 .byebye {
